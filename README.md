@@ -24,14 +24,14 @@
 </p>
 
 <!-- TOC -->
-<p align="right">
-  <a href="#-certificações">🏅 Certificações</a> •
-  <a href="#-projetos-em-destaque-java">✨ Projetos</a> •
-  <a href="#-tech-stack">🛠️ Stack</a> •
-  <a href="#-sobre-mim">🚀 Sobre mim</a> •
-  <a href="#-métricas">📊 Métricas</a> •
-  <a href="#-roadmap-2025">🧭 Roadmap</a> •
-  <a href="#-contato">📬 Contato</a>
+<p align="center">
+  <a href="#certificacoes">🏅 Certificações</a> •
+  <a href="#projetos">✨ Projetos</a> •
+  <a href="#stack">🛠️ Stack</a> •
+  <a href="#sobre-mim">🚀 Sobre mim</a> •
+  <a href="#metricas">📊 Métricas</a> •
+  <a href="#roadmap">🧭 Roadmap</a> •
+  <a href="#contato">📬 Contato</a>
 </p>
 
 ---
