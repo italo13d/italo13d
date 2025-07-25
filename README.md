@@ -118,7 +118,7 @@
 - ☁️ Azure Fundamentals, Docker, CI/CD (GitHub Actions) e observabilidade (ELK, Grafana).  
 - 🧪 Testes (JUnit/Mockito/Cucumber) e performance (JMeter).  
 - 🤖 Automação com Python/Selenium e exploração de IA generativa no desenvolvimento.  
-- 🌍 Objetivo: atuar remotamente em times globais e aprofundar segurança/arquitetura.
+- 🌍 Objetivo: desenvolver minhas habilidades técnicas e poder contribuir com times altamente engajados no fluxo de desenvolvimento.
 
 ---
 
