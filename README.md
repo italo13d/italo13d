@@ -1,3 +1,5 @@
+<div id="top"></div>
+
 <!-- Opcional: Banner -->
 <!-- <img src="https://raw.githubusercontent.com/italo13d/italo13d/main/banner.png" alt="Banner do perfil do Ítalo" /> -->
 
@@ -36,7 +38,7 @@
 
 ---
 
-### 🏅 Certificações
+<h3 id="certificacoes">🏅 Certificações</h3>
 
 <p align="center">
   <!-- Troque os href="#" pelos links de verificação se quiser -->
@@ -49,9 +51,11 @@
   <img src="https://img.shields.io/badge/Oracle-DevGym%20Databases%20for%20Developers-F80000?logo=oracle&logoColor=white" alt="Oracle DevGym" />
 </p>
 
+<p align="right"><a href="#top">⬆️ Voltar ao topo</a></p>
+
 ---
 
-### ✨ Projetos em Destaque (Java)
+<h3 id="projetos">✨ Projetos em Destaque (Java)</h3>
 
 | Projeto | O que é | Stack |
 |--------|---------|-------|
@@ -74,9 +78,11 @@
 
 </details>
 
+<p align="right"><a href="#top">⬆️ Voltar ao topo</a></p>
+
 ---
 
-### 🛠️ Tech Stack
+<h3 id="stack">🛠️ Tech Stack</h3>
 
 **Back-end**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
@@ -110,19 +116,23 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 
+<p align="right"><a href="#top">⬆️ Voltar ao topo</a></p>
+
 ---
 
-### 🚀 Sobre mim
+<h3 id="sobre-mim">🚀 Sobre mim</h3>
 
 - 🎯 APIs e microsserviços em Java, com foco em arquitetura limpa.  
 - ☁️ Azure Fundamentals, Docker, CI/CD (GitHub Actions) e observabilidade (ELK, Grafana).  
 - 🧪 Testes (JUnit/Mockito/Cucumber) e performance (JMeter).  
 - 🤖 Automação com Python/Selenium e exploração de IA generativa no desenvolvimento.  
-- 🌍 Objetivo: desenvolver minhas habilidades técnicas e poder contribuir com times altamente engajados no fluxo de desenvolvimento.
+- 🌍 Objetivo: desenvolver minhas habilidades técnicas e contribuir com times altamente engajados no fluxo de desenvolvimento.
+
+<p align="right"><a href="#top">⬆️ Voltar ao topo</a></p>
 
 ---
 
-### 📊 Métricas
+<h3 id="metricas">📊 Métricas</h3>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=italo13d&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
@@ -137,18 +147,22 @@
 <!-- ![snake gif](https://raw.githubusercontent.com/italo13d/italo13d/output/snake.svg) -->
 <!-- <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=italo13d&theme=gruvbox&no-frame=true&row=1&column=6" alt="Troféus"/></p> -->
 
+<p align="right"><a href="#top">⬆️ Voltar ao topo</a></p>
+
 ---
 
-### 🧭 Roadmap 2025
+<h3 id="roadmap">🧭 Roadmap 2025</h3>
 
 - [x] Concluir certificações Azure Fundamentals (AZ/AI/DP/SC-900)  
 - [x] Estudar Arquitetura Hexagonal com Spring/Quarkus  
 - [ ] Criar POC DevSecOps (SAST/DAST) com GitHub Actions  
 - [ ] Aprofundar testes de performance com JMeter + Gatling  
 
+<p align="right"><a href="#top">⬆️ Voltar ao topo</a></p>
+
 ---
 
-### 📬 Contato
+<h3 id="contato">📬 Contato</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-italonunestillmann-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italonunestillmann/)
 [![E-mail](https://img.shields.io/badge/E--mail-italontab%40hotmail.com-8B89CC?logo=gmail&logoColor=white)](mailto:italontab@hotmail.com)
@@ -158,3 +172,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=italo13d&color=yellow" alt="Profile views" />
 </p>
+
+<p align="right"><a href="#top">⬆️ Voltar ao topo</a></p>
