@@ -135,11 +135,6 @@
 <h3 id="metricas">📊 Métricas</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=italo13d&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=italo13d&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo13d&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
